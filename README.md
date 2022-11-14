@@ -1,10 +1,9 @@
 # Laporan Praktikum flutter_basic
 
-Nama : Yulia Eka Ardhani
-
+Nama : Dwi Maria Ulfa
 Kelas : TI 3C
 
-NIM : 2041720064
+NIM : 2041720139
 
 ## Hasil Akhir pada tampilan browser karena Hp saya tidak dapat menampilkan hasilnya
 
